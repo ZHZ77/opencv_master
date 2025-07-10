@@ -1,1 +1,0 @@
-D:\Code\cpp\opencv_master\Debug\opencv_master.exe
